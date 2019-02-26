@@ -1,6 +1,6 @@
 # webpack-scaffold-lolimay
 
-a simple webpack scaffold which make you setup your web project faster.
+undergraduate class table with hot map visualiaztion.
 
 # Installation
 ````bash
