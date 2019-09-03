@@ -92,7 +92,7 @@ const footer = document.createElement('div')
 
 helpLink.classList.add('help-link')
 footer.classList.add('footer')
-helpLink.innerHTML = '<a href="https://contact.lolimay.cn">课表有误？请戳此链接联系我修改</a>'
+helpLink.innerHTML = '<a href="mailto:lolimay@lolimay.cn">课表有误？请戳此链接联系我修改</a>'
 footer.innerHTML = `Powered with ❤ by <a href="https://github.com/lolimay" target="_blank">lolimay</a>.`
 
 document.body.appendChild(helpLink)
