@@ -79,7 +79,7 @@ option = {
     },
     visualMap: {
         min: 0,
-        max: 21,
+        max: 24,
         calculable: true,
         orient: 'horizontal',
         left: 'center',
